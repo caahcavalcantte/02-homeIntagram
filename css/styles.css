@@ -155,3 +155,53 @@
     font-weight: bold;
     text-decoration: none;
   }
+
+  /* APP */
+  
+  .get-app-container {
+    text-align: center;
+    width: 350px;
+  }
+  
+  .get-app-container p {
+    margin: 20px 0;
+    font-size: 13px;
+  }
+  
+  .get-app-container a {
+    text-decoration: none;
+  }
+  
+  .get-app-container img {
+    width: 136px;
+    height: 40px;
+  }
+  
+  /* RODAPÉ */
+  
+  footer {
+    text-align: left;
+    width: 1000px;
+    margin: 50px auto;
+  }
+  
+  footer nav {
+    display: inline-block;
+  }
+  
+  footer .footer-links {
+    list-style: none;
+  }
+  
+  footer .footer-links li {
+    display: inline-block;
+    text-transform: uppercase;
+    margin-right: 10px;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: #00376b;
+    font-size: 12px;
+    font-weight: bold;
+  }
